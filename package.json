@@ -1,0 +1,24 @@
+{
+  "name": "sports-booking-api",
+  "version": "1.0.0",
+  "description": "Backend API for sports venue booking system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "migrate": "node scripts/migrate.js"
+  },
+  "keywords": ["sports", "booking", "api"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.11.3",
+    "dotenv": "^16.3.1",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
+
