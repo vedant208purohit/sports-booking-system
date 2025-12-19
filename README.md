@@ -364,11 +364,6 @@ This project was designed to be completed within a 2-hour time limit, focusing o
 - **dotenv** - Environment variable management
 - **cors** - Cross-origin resource sharing
 
-## License
 
-ISC
 
-## Author
-
-Created for coding assignment submission.
 
